@@ -2,6 +2,12 @@
 
 Custom NUI weapon/utilities wheel for FiveM that replaces the default weapon wheel flow with a radial selector for weapons plus quick utility actions (Armor and Oxy/heal).
 
+## Preview
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/27b35047-ff62-452a-8919-a3dfaacdc640" width="48%" height="440" />
+  <img src="https://github.com/user-attachments/assets/f1f4b45e-d8b4-4aff-91d6-6cd4f8452491" width="48%" height="440" />
+</p>
+
 ## Features
 
 - Radial wheel UI with category-based weapon selection
